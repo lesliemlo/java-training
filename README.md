@@ -1,2 +1,2 @@
 # java-training
-Java exercises and workbooks
+Java challenges and workbooks
