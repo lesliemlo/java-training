@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67fd3871-63e8-4e2c-a75f-8e0c5d9355a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/extra/practice/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/extra/practice/ContactManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/extra/practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/workbooks/unitSeven/workbook7/Airline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/workbooks/unitSeven/workbook7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/workbooks/unitSeven/workbook7/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/workbooks/unitSeven/workbook71.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ujLRup38jZtiXFNshLLqbw0bLP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.main.java.extra.practice.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "moduleTwo-unitSeven-20250323",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.challenges" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main.java.extra.practice.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="WorldOfObjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.challenges.Main" />
+      <module name="WorldOfObjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.extra.practice.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.extra.practice.Main" />
+      <module name="WorldOfObjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.extra.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main.java.extra.practice.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67fd3871-63e8-4e2c-a75f-8e0c5d9355a7" name="Changes" comment="" />
+      <created>1742757032507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742757032507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="contacts[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
